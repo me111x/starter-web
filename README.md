@@ -1,7 +1,7 @@
 # Start Web Proget 
 
 Questo e' un semplice sito web per mostrare come lavorano assieme Git e Github.
-Luca Romano
+Luca Romano seconda versione
 
 ## Introduction
 
